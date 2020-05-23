@@ -1,4 +1,4 @@
-<p align="center" 
+<p align="center">
 :hammer: I'm still working on this, stranger :hammer:
 </p>
 
