@@ -1,0 +1,6 @@
+projectKey=jmarqu2019:GenioPoli
+serverUrl=http://200.9.176.59:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://200.9.176.59:9000/dashboard?id=jmarqu2019%3AGenioPoli
+ceTaskId=AW_dK2r6vXyWqgoFqhEc
+ceTaskUrl=http://200.9.176.59:9000/api/ce/task?id=AW_dK2r6vXyWqgoFqhEc

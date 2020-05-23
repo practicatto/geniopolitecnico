@@ -1,0 +1,15 @@
+#R un gato
+#R un conejo
+#R un perro
+#P come zanahorias?
+#P maulla?
+#R una oveja
+#R un elefante
+#P es un animal de granja?
+#P es un animal domestico?
+#R un pinguino
+#R un calamar
+#R una ara�a
+#P vive en el oceano?
+#P es un ave?
+#P es un mamifero?

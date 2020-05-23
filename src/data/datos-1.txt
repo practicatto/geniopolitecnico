@@ -1,0 +1,15 @@
+#R gato
+#R un perro
+#P dice miau?
+#R una oveja
+#R un elefante
+#P es un animal de granja?
+#P es un animal domestico?
+#R paloma
+#R un pinguino
+#P puede volar?
+#R un calamar
+#R una araña
+#P vive en el oceano?
+#P es un ave?
+#P es un mamifero?
