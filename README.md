@@ -27,7 +27,7 @@ If <strong>Polito</strong> guessed your animal. He will celebrate and you could 
   <img src="https://user-images.githubusercontent.com/59121896/98572314-7d1c5100-2283-11eb-8f3b-79e1b54c4511.gif" alt="Happy Polito">
 </p>
 
-Else if <strong>Polito</strong> guessed wrong, he will be sad about it. But <strong>Polito</strong> wants you to help him learn more about animals so he will ask which animal were you thinking of, a question that is going to help him distinguish the animals. 
+Else if <strong>Polito</strong> guessed wrong, he will be sad about it. But <strong>Polito</strong> wants you to help him learn more about animals so he will ask which animal you were thinking of and a question that is going to help him distinguish the animals. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59121896/98573633-139d4200-2285-11eb-8347-11861e9da248.gif" alt="Sad Polito">
