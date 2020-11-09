@@ -89,7 +89,7 @@ public class Empezar{
            //BOTON EMPEZAR
            StackPane startGame = Helper.crearBoton("EMPEZAR","boton1");
            Label gameName= new Label("Genio\nPolitecnico");
-           Font g = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Title.ttf")), 30);
+           Font g = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Title.ttf")), 30);
            gameName.setFont(g);
            gameName.setTextAlignment(TextAlignment.CENTER);
            startGame.setAlignment(Pos.CENTER);

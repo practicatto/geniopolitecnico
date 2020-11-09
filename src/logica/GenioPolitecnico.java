@@ -203,7 +203,7 @@ public final class GenioPolitecnico {
         Pane triste = Helper.createTriste();
 
         // PARTE PARA AGREGAR
-        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Font1.ttf")), 20);
+        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Font1.ttf")), 20);
 
         Label m0 = new Label("Ayudame a aprender más");
         Label m1 = new Label("Por favor, ingresa: ");
@@ -329,7 +329,7 @@ public final class GenioPolitecnico {
     // EFECTOS LETRAS
 
     public void efecto_maquina(Label newtext, String text, StackPane textBox) throws FileNotFoundException {
-        f = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Perg.ttf")), 20);
+        f = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Perg.ttf")), 20);
         newtext.setFont(f);
         final IntegerProperty i = new SimpleIntegerProperty(0);
         Timeline timeline = new Timeline();

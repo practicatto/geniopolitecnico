@@ -1,15 +1,15 @@
-#R un gato
-#R un conejo
+#R gato
 #R un perro
-#P come zanahorias?
-#P maulla?
+#P dice miau?
 #R una oveja
 #R un elefante
 #P es un animal de granja?
 #P es un animal domestico?
+#R paloma
 #R un pinguino
+#P puede volar?
 #R un calamar
-#R una ara�a
+#R una araña
 #P vive en el oceano?
 #P es un ave?
 #P es un mamifero?

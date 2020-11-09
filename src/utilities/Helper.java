@@ -113,7 +113,7 @@ public class Helper {
                 true);
         StackPane sp = new StackPane();
         Label text = new Label(name);
-        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Font1.ttf")), 32);
+        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Font1.ttf")), 32);
         text.setFont(f);
         text.setTextFill(Color.WHITE);
         ImageView botonView =new ImageView(bg);
@@ -152,7 +152,7 @@ public class Helper {
                 true);
         StackPane sp = new StackPane();
         Label text = new Label(name);
-        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Font1.ttf")), 25);
+        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Font1.ttf")), 25);
         text.setFont(f);
         text.setTextFill(Color.WHITE);
         ImageView botonView =new ImageView(bg);
