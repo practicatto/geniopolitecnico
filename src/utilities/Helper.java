@@ -131,7 +131,7 @@ public class Helper {
                 true);
         StackPane sp = new StackPane();
         Label text = new Label(name);
-        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myFonts/Font1.ttf")), 18);
+        Font f = Font.loadFont(new FileInputStream(new File("src/recursos/myfonts/Font1.ttf")), 18);
         text.setFont(f);
         text.setTextFill(Color.WHITE);
         ImageView botonView =new ImageView(bg);
