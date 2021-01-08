@@ -5,7 +5,7 @@
 # Genio Politecnico :genie:+:turtle:
 <strong>GenioPolitecnico</strong> is a game based on Akinator for a data structures class i took at my university.<br>
 <p align="center">
-  <strong>CLAIMER!</strong> <em>I do not own any rights for the images that were used in this project except for the turtle that i made.</em>
+  <strong>DISCLAIMER!</strong> <em>I do not own any rights for the images that were used in this project except for the turtle that i made.</em>
 </p>
 
 ## About the game :video_game:
@@ -14,7 +14,7 @@
 </p>
 
 Since <strong>GenioPolitecnico</strong> is based on Akinator, if you have played akinator before you'll know how <strong>GenioPolitecnico</strong> works.<br>
-First, our user is going to be think about an animal then he/she is going to be asked a few questions by our charismatic friend and ESPOL's mascot, <strong>Polito</strong>. 
+First, our user is going to think about an animal then he/she is going to be asked a few questions by our charismatic friend and ESPOL's mascot, <strong>Polito</strong>. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59121896/98503259-0e5adb80-2222-11eb-97b5-96323d6b28ad.gif" alt="Polito guessing">
