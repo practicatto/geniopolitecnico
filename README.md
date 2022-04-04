@@ -1,7 +1,3 @@
-<p align="center">
-:hammer: I'm still working on this, stranger. :hammer:
-</p>
-
 # Genio Politecnico :genie:+:turtle:
 <strong>GenioPolitecnico</strong> is a game based on Akinator for a data structures class i took at my university.<br>
 <p align="center">
